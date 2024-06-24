@@ -46,7 +46,7 @@ main img {
   height: 360px;
 }
 
-.About{
+.About, .Projects{
   border-bottom: 3px;
   border-style: solid;
   margin: 5px;
