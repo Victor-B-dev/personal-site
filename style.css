@@ -33,9 +33,23 @@ main {
   justify-content: center;
 }
 
+main h1 {
+  color: gold;
+} 
+
+main h2, h3 {
+  color: rgb(228, 224, 18);
+}
+
 main img {
   width: 540px;
   height: 360px;
+}
+
+.About{
+  border-bottom: 3px;
+  border-style: solid;
+  margin: 5px;
 }
 
 footer {
